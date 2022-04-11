@@ -11,4 +11,4 @@ insert into usr (first_name, middle_name, last_name, email) values
 ('РР»СЊСЏ', 'РџРµС‚СЂРѕРІРёС‡', 'РўСЂРѕРµРєСѓСЂРѕРІ', 'troekurov555v@my.example.com');
 
 
-ошибка 
+ошибка находится тут
